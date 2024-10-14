@@ -27,3 +27,9 @@ const ProductCard = ({ id, image, name, price, discount }) => {
 };
 
 export default ProductCard;
+
+
+
+// git config --global user.email "sreehaan6@gmail.com"
+// git config --global user.name "Venkatesh2392"
+
